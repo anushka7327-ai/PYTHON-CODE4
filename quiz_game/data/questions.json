@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Python kis type ki language hai?",
+        "options": [
+            "Programming Language",
+            "Markup Language",
+            "Database",
+            "Operating System"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Python file ka extension kya hota hai?",
+        "options": [
+            ".html",
+            ".py",
+            ".java",
+            ".cpp"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Python mein output ke liye kya use hota hai?",
+        "options": [
+            "input()",
+            "scan()",
+            "print()",
+            "output()"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Python mein list banane ke liye kya use hota hai?",
+        "options": [
+            "()",
+            "[]",
+            "{}",
+            "<>"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Python mein function banane ke liye kaunsa keyword use hota hai?",
+        "options": [
+            "function",
+            "func",
+            "def",
+            "define"
+        ],
+        "answer": 3
+    }
+]
